@@ -143,3 +143,13 @@ body {
     font-weight: bold;
     font-size: 20px;
 }
+@media screen and (max-width:768px) {
+
+          .container {
+
+            /* padding: 30px; */
+            /* margin: 30px; */
+            width: 280px;
+            height: 400px;
+          }
+        }
